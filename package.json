@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node build/bin/www",
-    "start-dev": "node src/bin/www",
-    "build": "npx babel src --out-dir build"
+    "start-dev": "node src/bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
